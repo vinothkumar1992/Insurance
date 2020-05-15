@@ -1,0 +1,28 @@
+[24-Mar-2020 20:42:41 Asia/Kuala_Lumpur] PHP Fatal error:  Class 'PhpOffice\PhpSpreadsheet\Writer\BaseWriter' not found in /home/myangkasaemas/public_html/MAEM/application/libraries/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx.php on line 28
+[29-Mar-2020 08:26:38 UTC] PHP Warning:  Unterminated comment starting line 287 in /home/myangkasaemas/public_html/MAEM/application/config/config.php on line 287
+[30-Mar-2020 08:59:17 UTC] PHP Warning:  Unterminated comment starting line 40 in /home/myangkasaemas/public_html/MAEM/application/config/config.php on line 40
+[30-Mar-2020 16:59:17 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: log_path in /home/myangkasaemas/public_html/MAEM/system/core/Log.php on line 127
+[30-Mar-2020 16:59:17 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: log_path in /home/myangkasaemas/public_html/MAEM/system/core/Log.php on line 127
+[30-Mar-2020 16:59:17 Asia/Kuala_Lumpur] PHP Warning:  mkdir(): Invalid path in /home/myangkasaemas/public_html/MAEM/system/core/Log.php on line 131
+[30-Mar-2020 16:59:17 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: log_threshold in /home/myangkasaemas/public_html/MAEM/system/core/Log.php on line 138
+[30-Mar-2020 16:59:17 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: log_threshold in /home/myangkasaemas/public_html/MAEM/system/core/Log.php on line 142
+[30-Mar-2020 08:59:24 UTC] PHP Warning:  Unterminated comment starting line 81 in /home/myangkasaemas/public_html/MAEM/application/config/config.php on line 81
+[30-Mar-2020 16:59:24 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: log_path in /home/myangkasaemas/public_html/MAEM/system/core/Log.php on line 127
+[30-Mar-2020 16:59:24 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: log_path in /home/myangkasaemas/public_html/MAEM/system/core/Log.php on line 127
+[30-Mar-2020 16:59:24 Asia/Kuala_Lumpur] PHP Warning:  mkdir(): Invalid path in /home/myangkasaemas/public_html/MAEM/system/core/Log.php on line 131
+[30-Mar-2020 16:59:24 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: log_threshold in /home/myangkasaemas/public_html/MAEM/system/core/Log.php on line 138
+[30-Mar-2020 16:59:24 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: log_threshold in /home/myangkasaemas/public_html/MAEM/system/core/Log.php on line 142
+[30-Mar-2020 08:59:25 UTC] PHP Warning:  Unterminated comment starting line 81 in /home/myangkasaemas/public_html/MAEM/application/config/config.php on line 81
+[30-Mar-2020 16:59:25 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: log_path in /home/myangkasaemas/public_html/MAEM/system/core/Log.php on line 127
+[30-Mar-2020 16:59:25 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: log_path in /home/myangkasaemas/public_html/MAEM/system/core/Log.php on line 127
+[30-Mar-2020 16:59:25 Asia/Kuala_Lumpur] PHP Warning:  mkdir(): Invalid path in /home/myangkasaemas/public_html/MAEM/system/core/Log.php on line 131
+[30-Mar-2020 16:59:25 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: log_threshold in /home/myangkasaemas/public_html/MAEM/system/core/Log.php on line 138
+[30-Mar-2020 16:59:25 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: log_threshold in /home/myangkasaemas/public_html/MAEM/system/core/Log.php on line 142
+[30-Mar-2020 08:59:26 UTC] PHP Warning:  Unterminated comment starting line 81 in /home/myangkasaemas/public_html/MAEM/application/config/config.php on line 81
+[30-Mar-2020 16:59:26 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: log_path in /home/myangkasaemas/public_html/MAEM/system/core/Log.php on line 127
+[30-Mar-2020 16:59:26 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: log_path in /home/myangkasaemas/public_html/MAEM/system/core/Log.php on line 127
+[30-Mar-2020 16:59:26 Asia/Kuala_Lumpur] PHP Warning:  mkdir(): Invalid path in /home/myangkasaemas/public_html/MAEM/system/core/Log.php on line 131
+[30-Mar-2020 16:59:26 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: log_threshold in /home/myangkasaemas/public_html/MAEM/system/core/Log.php on line 138
+[30-Mar-2020 16:59:26 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: log_threshold in /home/myangkasaemas/public_html/MAEM/system/core/Log.php on line 142
+[10-Apr-2020 13:49:22 UTC] PHP Parse error:  syntax error, unexpected ''MemberForm/signtest'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/myangkasaemas/public_html/MAEM/application/config/config.php on line 480
+[10-Apr-2020 13:49:22 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
